@@ -290,19 +290,19 @@ section:nth-child(6){
 
 .agentur-pics:nth-child(1){
     background-color: #0ef36d;
-    background: url('/assets/firstImg.png');
+    background: url('assets/firstImg.png');
     background-position: center;
     background-size: cover;
 }
 .agentur-pics:nth-child(2){
     background-color: #17aaee;
-    background: url('/assets/secondImg.png');
+    background: url('assets/secondImg.png');
     background-position: center;
     background-size: cover;
 }
 .agentur-pics:nth-child(3){
     background-color: #d1f30e;
-    background: url('/assets/thirdImg.png');
+    background: url('assets/thirdImg.png');
     background-position: center;
     background-size: cover;
 }
