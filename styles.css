@@ -68,7 +68,7 @@ header{
 }
 
 .site-symbol{
-    background: url('/assets/symbol.png');
+    background: url('assets/symbol.png');
     background-position: center;
     margin-top: auto;
     width: 560px;
@@ -174,7 +174,7 @@ section{
 
 section:nth-child(1){
     /* scroll-snap-align: start; */
-    background: url('/assets/Hero-image.jpg');
+    background: url('assets/Hero-image.jpg');
     background-size: cover;
 }
 
@@ -383,31 +383,31 @@ section:nth-child(6){
 
 .projekte-pics:nth-child(1){
     /* background-color: #0ef36d; */
-    background: url('/assets/proFirst.png');
+    background: url('assets/proFirst.png');
     background-position: center;
     background-size: cover;
 }
 .projekte-pics:nth-child(2){
     /* background-color: #17aaee; */
-    background: url('/assets/proSecond.png');
+    background: url('assets/proSecond.png');
     background-position: center;
     background-size: cover;
 }
 .projekte-pics:nth-child(3){
     /* background-color: #d1f30e; */
-    background: url('/assets/proThird.png');
+    background: url('assets/proThird.png');
     background-position: center;
     background-size: cover;
 }
 .projekte-pics:nth-child(4){
     /* background-color: #d1f30e; */
-    background: url('/assets/proFourth.png');
+    background: url('assets/proFourth.png');
     background-position: center;
     background-size: cover;
 }
 .projekte-pics:nth-child(5){
     /* background-color: #d1f30e; */
-    background: url('/assets/proFifth.png');
+    background: url('assets/proFifth.png');
     background-position: center;
     background-size: cover;
 }
@@ -484,13 +484,13 @@ section:nth-child(6){
 
 .leistungen-pics:nth-child(1){
     /* background-color: #0ef36d; */
-    background: url('/assets/leistungOne.png');
+    background: url('assets/leistungOne.png');
     background-position: center;
     background-size: cover;
 }
 .leistungen-pics:nth-child(2){
     /* background-color: #17aaee; */
-    background: url('/assets/leistungTwo.png');
+    background: url('assets/leistungTwo.png');
     background-position: center;
     background-size: cover;
 }
